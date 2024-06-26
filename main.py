@@ -6,7 +6,7 @@ from telegram import Bot
 import os
 
 # Configurações do bot telegram
-TELEGRAM_BOT_TOKEN = '7241425492:AAHkGaR2hPRNv8UTNzDgML6PLN5N5LczdnQ'
+TELEGRAM_BOT_TOKEN = 'api'
 CHAT_ID = '1444306011'
 
 # Preço limite definido para alertas
